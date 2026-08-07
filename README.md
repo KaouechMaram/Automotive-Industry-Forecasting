@@ -102,7 +102,7 @@ The app opens in your browser with a sidebar to navigate between all analysis pa
 
 ```
 Automotive-Industry-Forecasting/
-├── streamlit_app.py                     # Main Streamlit application
+├── streamlit_app.py                     # Main Streamlit application (14 pages)
 ├── run_streamlit.py                     # Streamlit launcher script
 ├── requirements_streamlit.txt           # Streamlit app dependencies
 ├── regenerate_models.py                 # Script to retrain/regenerate ML models
@@ -114,7 +114,7 @@ Automotive-Industry-Forecasting/
 │   ├── run_analysis.py
 │   └── requirements.txt
 │
-├── dashboards/                          # 9 HTML dashboards
+├── dashboards/                          # Standalone HTML dashboards
 │   ├── dashboard_executif_direction.html
 │   ├── dashboard_modeles_ml.html
 │   ├── dashboard_analyse_geographique_avancee.html
@@ -156,9 +156,9 @@ Automotive-Industry-Forecasting/
 - Multiple scenario analysis
 
 ### Visualizations
-- 9 interactive HTML dashboards
-- A unified Streamlit application with sidebar navigation
+- Interactive Streamlit application with 14 analysis pages and sidebar navigation
 - Dynamic charts built with Plotly
+- Standalone HTML dashboards also available in the `dashboards/` folder
 - Interface adapted to different screen sizes
 
 ---
@@ -195,17 +195,5 @@ Automotive-Industry-Forecasting/
 | Data volume | 12,096 observations |
 | Manufacturers covered | Toyota, Volkswagen, Ford, Hyundai-Kia, Stellantis, GM |
 | Regions covered | North America, Europe, Asia-Pacific, China |
-| Analysis pages | 9 dashboards + Streamlit app |
+| Analysis pages | 14 pages (Streamlit app) |
 | Machine learning models | 6 models |
-
----
-
-## Quick Start
-
-```bash
-# 1. Install Streamlit app dependencies
-pip install -r requirements_streamlit.txt
-
-# 2. Launch the application
-streamlit run streamlit_app.py
-```
