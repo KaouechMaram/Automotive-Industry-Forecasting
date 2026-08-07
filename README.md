@@ -245,13 +245,4 @@ python run_complete_analysis.py
 
 # 4. Navigation opens automatically at dashboard_navigation.html
 ```
-## 🚀 Demo
 
-👉 **[View Demo →](https://github.com/KaouechMaram/Automotive-Industry-Forecasting/releases/tag/v1.0.0)**
-
-Explore the 16 interactive dashboards covering:
-- 📊 Executive & strategic analysis
-- 🤖 Machine learning models and forecasts
-- 🌍 Geographic and market analysis
-- ⚡ Electric vehicle transition
-- 🔮 2030 scenarios and strategic recommendations
