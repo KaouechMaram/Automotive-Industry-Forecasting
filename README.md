@@ -10,94 +10,91 @@ Access the interactive dashboards covering executive strategy, ML forecasting mo
 
 ## Project Overview
 
-This project presents a comprehensive analysis of the global automotive industry, structured into 9 specialized analysis pages, with forecasts through 2030 and strategic recommendations based on machine learning models. The project also includes a Streamlit application that brings all analyses together in a single interactive interface.
+This project presents a comprehensive analysis of the global automotive industry, delivered as an interactive Streamlit application with 14 specialized analysis pages, forecasts through 2030, and strategic recommendations based on machine learning models.
 
 ---
 
 ## Analysis Pages
 
-### 1. Executive Dashboard
-- **File**: `dashboard_executif_direction.html`
+All pages are accessible from the sidebar of the Streamlit application.
+
+### 1. Home
+- **Description**: Project introduction and overview
+- **Content**: Key metrics, production trends, yearly overview
+
+### 2. Executive Dashboard
 - **Description**: Strategic overview for senior management
-- **Content**: Key performance indicators, trends
+- **Content**: Key performance indicators, 2030 scenario comparison
 - **Audience**: Executive leadership, board of directors
 
-### 2. Machine Learning Models
-- **File**: `dashboard_modeles_ml.html`
+### 3. Machine Learning Models
 - **Description**: Comparative analysis of machine learning models
-- **Content**: Model performance, comparisons, metrics
+- **Content**: Model performance (R² scores), feature importance
 - **Models**: XGBoost, Prophet, Linear Regression, ARIMA
 
-### 3. Geographic Analysis
-- **File**: `dashboard_analyse_geographique_avancee.html`
-- **Description**: Advanced regional analysis
-- **Content**: Regional performance, emerging markets, local dynamics
+### 4. Geographic Analysis
+- **Description**: Regional analysis
+- **Content**: Production trends and price comparison by region
 - **Regions covered**: North America, Europe, Asia-Pacific, China
 
-### 4. Electric Transition
-- **File**: `dashboard_transition_electrique.html`
+### 5. Electric Transition
 - **Description**: Analysis of the transition to electric vehicles
-- **Content**: EV adoption, infrastructure, government policies
+- **Content**: EV share evolution, EV production by manufacturer
 
-### 5. Manufacturers
-- **File**: `dashboard_fabricants_automobile.html`
+### 6. Manufacturers
 - **Description**: Comparative analysis of major manufacturers
-- **Content**: Market share, performance, strategic positioning
+- **Content**: Production trends and average price by manufacturer
 - **Manufacturers covered**: Toyota, Volkswagen, Ford, Hyundai-Kia, Stellantis, GM
 
-### 6. Economic Analysis
-- **File**: `dashboard_analyse_economique_strategique.html`
+### 7. Economic Analysis
 - **Description**: Strategic economic analysis
-- **Content**: Policy impact, costs, profitability
+- **Content**: Correlation with GDP growth, oil price impact on production
 
-### 7. Competitive Intelligence
-- **File**: `dashboard_intelligence_concurrentielle.html`
+### 8. Competitive Intelligence
 - **Description**: Competitive analysis and market positioning
-- **Content**: Benchmarking, competitive advantages
+- **Content**: Market share by manufacturer, market share evolution over time
 
-### 8. Risks and Opportunities
-- **File**: `dashboard_risques_opportunites.html`
+### 9. Risks and Opportunities
 - **Description**: Risk identification and analysis
-- **Content**: Risk matrix, opportunities, mitigation measures
+- **Content**: Operational and regulatory risks, technological and market opportunities
 
-### 9. Main Dashboard
-- **File**: `dashboard_principal_automobile.html`
-- **Description**: Integrated overview
-- **Content**: All key indicators, overall synthesis
+### 10. Post-COVID Analysis
+- **Description**: Pandemic impact and industry recovery
+- **Content**: Monthly production trend 2020–2023, pre/post-COVID comparison
+
+### 11. Advanced Electric Transition
+- **Description**: In-depth analysis of the electric transition
+- **Content**: EV share projections to 2030, battery cost evolution
+
+### 12. Strategic Recommendations
+- **Description**: Detailed strategic recommendations
+- **Content**: Immediate and medium-term action plan, 2030 objectives
+
+### 13. Sector Analysis
+- **Description**: Analysis by sector and market segment
+- **Content**: Production by vehicle category, margin analysis by segment
+
+### 14. 2030 Outlook
+- **Description**: Long-term vision and future scenarios
+- **Content**: 2030 scenario comparison (radar chart), technology trends (autonomy, electrification)
 
 ---
 
 ## Usage
 
-There are two ways to explore the analysis: the standalone HTML dashboards, or the interactive Streamlit application.
-
-### Option A — Streamlit application (recommended)
+### 1. Install dependencies
 
 ```bash
-# 1. Install dependencies
 pip install -r requirements_streamlit.txt
+```
 
-# 2. Launch the app
+### 2. Launch the application
+
+```bash
 streamlit run streamlit_app.py
 ```
 
-The app opens in your browser with a sidebar to navigate between all analysis pages.
-
-### Option B — Static HTML dashboards
-
-```bash
-# 1. Install dependencies
-cd code/
-pip install -r requirements.txt
-
-# 2. Run the full analysis (regenerates data/models if needed)
-python run_complete_analysis.py
-```
-
-Then open any file directly in your browser, for example:
-- `dashboards/dashboard_principal_automobile.html`
-- `dashboards/dashboard_executif_direction.html`
-- All dashboards are available in the `dashboards/` folder
+The app opens in your browser with a sidebar to navigate between all analysis pages: Home, Executive Dashboard, ML Models, Geographic Analysis, Electric Transition, Manufacturers, Economic Analysis, Competitive Intelligence, Risks and Opportunities, Post-COVID Analysis, Advanced Electric Transition, Strategic Recommendations, Sector Analysis, and 2030 Outlook.
 
 ---
 
