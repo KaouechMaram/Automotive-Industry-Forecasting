@@ -1,8 +1,10 @@
 # Automotive Industry Strategic Analysis - 2030 Forecasts
 
 ## Demo
+
 **[View Demo →](https://github.com/KaouechMaram/Automotive-Industry-Forecasting/releases/tag/v1.0.0)**
 
+Access all 16 interactive dashboards covering executive strategy, ML forecasting models, geographic analysis, and the 2030 electric vehicle transition.
 ## Project Overview
 
 This project presents a comprehensive analysis of the global automotive industry, structured into 16 specialized analysis pages, with forecasts through 2030 and strategic recommendations based on machine learning models.
