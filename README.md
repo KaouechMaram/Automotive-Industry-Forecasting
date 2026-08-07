@@ -102,7 +102,7 @@ The app opens in your browser with a sidebar to navigate between all analysis pa
 
 ```
 Automotive-Industry-Forecasting/
-├── streamlit_app.py                     # Main Streamlit application (14 pages)
+├── streamlit_app.py                     # Main Streamlit application 
 ├── run_streamlit.py                     # Streamlit launcher script
 ├── requirements_streamlit.txt           # Streamlit app dependencies
 ├── regenerate_models.py                 # Script to retrain/regenerate ML models
