@@ -1,132 +1,132 @@
-# Analyse Stratégique de l'Industrie Automobile - Prévisions 2030
+# Automotive Industry Strategic Analysis - 2030 Forecasts
 
-## Aperçu du projet
+## Project Overview
 
-Ce projet présente une analyse complète de l'industrie automobile mondiale, structurée en 16 pages d'analyses spécialisées, avec des prévisions jusqu'en 2030 et des recommandations stratégiques basées sur des modèles de machine learning.
-
----
-
-## Pages d'analyses
-
-### 1. Accueil
-- **Fichier**: `dashboard_accueil.html`
-- **Description**: Page d'introduction et présentation du projet
-- **Contenu**: Objectifs, méthodologie, fabricants analysés, couverture géographique
-- **Navigation**: Liens vers l'ensemble des autres pages
-
-### 2. Dashboard exécutif
-- **Fichier**: `dashboard_executif_direction.html`
-- **Description**: Vue d'ensemble stratégique destinée à la direction
-- **Contenu**: Indicateurs clés de performance, tendances
-- **Public visé**: Direction générale, conseil d'administration
-
-### 3. Modèles de machine learning
-- **Fichier**: `dashboard_modeles_ml.html`
-- **Description**: Analyse comparative des modèles de machine learning
-- **Contenu**: Performance des modèles, comparaisons, métriques
-- **Modèles**: XGBoost, Prophet, régression linéaire, ARIMA
-
-### 4. Analyse géographique
-- **Fichier**: `dashboard_analyse_geographique_avancee.html`
-- **Description**: Analyse géographique par région
-- **Contenu**: Performance par région, marchés émergents, dynamiques locales
-- **Régions couvertes**: Amérique du Nord, Europe, Asie-Pacifique, Chine
-
-### 5. Transition électrique
-- **Fichier**: `dashboard_transition_electrique.html`
-- **Description**: Analyse de la transition vers les véhicules électriques
-- **Contenu**: Adoption des véhicules électriques, infrastructure, politiques publiques
-
-### 6. Fabricants
-- **Fichier**: `dashboard_fabricants_automobile.html`
-- **Description**: Analyse comparative des principaux fabricants
-- **Contenu**: Parts de marché, performance, positionnement stratégique
-- **Fabricants couverts**: Toyota, Volkswagen, Ford, Hyundai-Kia, Stellantis, GM
-
-### 7. Analyse économique
-- **Fichier**: `dashboard_analyse_economique_strategique.html`
-- **Description**: Analyse économique et stratégique
-- **Contenu**: Impact des politiques publiques, coûts, rentabilité
-
-### 8. Intelligence concurrentielle
-- **Fichier**: `dashboard_intelligence_concurrentielle.html`
-- **Description**: Analyse de la concurrence et du positionnement
-- **Contenu**: Benchmarking, avantages concurrentiels
-
-### 9. Risques et opportunités
-- **Fichier**: `dashboard_risques_opportunites.html`
-- **Description**: Identification et analyse des risques
-- **Contenu**: Matrice de risques, opportunités, mesures de mitigation
-
-### 10. Analyse post-COVID
-- **Fichier**: `dashboard_analyse_post_covid.html`
-- **Description**: Impact de la pandémie et reprise du secteur
-- **Contenu**: Effets de la COVID-19, phase de récupération, nouvelles tendances
-
-### 11. Transition électrique avancée
-- **Fichier**: `dashboard_transition_electrique_avancee.html`
-- **Description**: Analyse approfondie de la transition électrique
-- **Contenu**: Technologies avancées, infrastructure, scénarios prospectifs
-
-### 12. Recommandations stratégiques
-- **Fichier**: `dashboard_recommandations_strategiques.html`
-- **Description**: Recommandations détaillées pour l'orientation stratégique
-- **Contenu**: Plan d'action, priorités, feuille de route
-
-### 13. Analyse sectorielle
-- **Fichier**: `dashboard_analyse_sectorielle.html`
-- **Description**: Analyse par secteurs et segments de marché
-- **Contenu**: Segments de marché, niches, spécialisation
-
-### 14. Prospective 2030
-- **Fichier**: `dashboard_prospective_2030.html`
-- **Description**: Vision à long terme et scénarios futurs
-- **Contenu**: Scénarios 2030, facteurs clés, vision stratégique
-
-### 15. Dashboard principal
-- **Fichier**: `dashboard_principal_automobile.html`
-- **Description**: Vue d'ensemble intégrée
-- **Contenu**: Ensemble des indicateurs clés, synthèse globale
-
-### 16. Navigation principale
-- **Fichier**: `dashboard_navigation.html`
-- **Description**: Page de navigation centralisant l'accès aux analyses
-- **Contenu**: Menu principal, accès rapide, statistiques générales
+This project presents a comprehensive analysis of the global automotive industry, structured into 16 specialized analysis pages, with forecasts through 2030 and strategic recommendations based on machine learning models.
 
 ---
 
-## Utilisation
+## Analysis Pages
 
-### 1. Installation des dépendances
+### 1. Home
+- **File**: `dashboard_accueil.html`
+- **Description**: Project introduction and overview
+- **Content**: Objectives, methodology, manufacturers analyzed, geographic coverage
+- **Navigation**: Links to all other pages
+
+### 2. Executive Dashboard
+- **File**: `dashboard_executif_direction.html`
+- **Description**: Strategic overview for senior management
+- **Content**: Key performance indicators, trends
+- **Audience**: Executive leadership, board of directors
+
+### 3. Machine Learning Models
+- **File**: `dashboard_modeles_ml.html`
+- **Description**: Comparative analysis of machine learning models
+- **Content**: Model performance, comparisons, metrics
+- **Models**: XGBoost, Prophet, Linear Regression, ARIMA
+
+### 4. Geographic Analysis
+- **File**: `dashboard_analyse_geographique_avancee.html`
+- **Description**: Advanced regional analysis
+- **Content**: Regional performance, emerging markets, local dynamics
+- **Regions covered**: North America, Europe, Asia-Pacific, China
+
+### 5. Electric Transition
+- **File**: `dashboard_transition_electrique.html`
+- **Description**: Analysis of the transition to electric vehicles
+- **Content**: EV adoption, infrastructure, government policies
+
+### 6. Manufacturers
+- **File**: `dashboard_fabricants_automobile.html`
+- **Description**: Comparative analysis of major manufacturers
+- **Content**: Market share, performance, strategic positioning
+- **Manufacturers covered**: Toyota, Volkswagen, Ford, Hyundai-Kia, Stellantis, GM
+
+### 7. Economic Analysis
+- **File**: `dashboard_analyse_economique_strategique.html`
+- **Description**: Strategic economic analysis
+- **Content**: Policy impact, costs, profitability
+
+### 8. Competitive Intelligence
+- **File**: `dashboard_intelligence_concurrentielle.html`
+- **Description**: Competitive analysis and market positioning
+- **Content**: Benchmarking, competitive advantages
+
+### 9. Risks and Opportunities
+- **File**: `dashboard_risques_opportunites.html`
+- **Description**: Risk identification and analysis
+- **Content**: Risk matrix, opportunities, mitigation measures
+
+### 10. Post-COVID Analysis
+- **File**: `dashboard_analyse_post_covid.html`
+- **Description**: Pandemic impact and industry recovery
+- **Content**: COVID-19 effects, recovery phase, emerging trends
+
+### 11. Advanced Electric Transition
+- **File**: `dashboard_transition_electrique_avancee.html`
+- **Description**: In-depth analysis of the electric transition
+- **Content**: Advanced technologies, infrastructure, forward-looking scenarios
+
+### 12. Strategic Recommendations
+- **File**: `dashboard_recommandations_strategiques.html`
+- **Description**: Detailed strategic recommendations
+- **Content**: Action plan, priorities, roadmap
+
+### 13. Sector Analysis
+- **File**: `dashboard_analyse_sectorielle.html`
+- **Description**: Analysis by sector and market segment
+- **Content**: Market segments, niches, specialization
+
+### 14. 2030 Outlook
+- **File**: `dashboard_prospective_2030.html`
+- **Description**: Long-term vision and future scenarios
+- **Content**: 2030 scenarios, key factors, strategic vision
+
+### 15. Main Dashboard
+- **File**: `dashboard_principal_automobile.html`
+- **Description**: Integrated overview
+- **Content**: All key indicators, overall synthesis
+
+### 16. Main Navigation
+- **File**: `dashboard_navigation.html`
+- **Description**: Central navigation page for all analyses
+- **Content**: Main menu, quick access, general statistics
+
+---
+
+## Usage
+
+### 1. Install dependencies
 ```bash
 cd PROJET_AUTOMOBILE_FINAL/code/
 pip install -r requirements.txt
 ```
 
-### 2. Lancement de l'analyse complète
+### 2. Run the full analysis
 ```bash
 python run_complete_analysis.py
 ```
 
-### 3. Accès aux dashboards
-- Navigation: ouvrir `dashboards/dashboard_navigation.html`
-- Accueil: ouvrir `dashboards/dashboard_accueil.html`
-- L'ensemble des dashboards est disponible dans le dossier `dashboards/`
+### 3. Access the dashboards
+- Navigation: open `dashboards/dashboard_navigation.html`
+- Home: open `dashboards/dashboard_accueil.html`
+- All dashboards are available in the `dashboards/` folder
 
 ---
 
-## Structure du projet
+## Project Structure
 
 ```
 PROJET_AUTOMOBILE_FINAL/
-├── code/                                # Scripts Python
+├── code/                                # Python scripts
 │   ├── automotive_analysis_main.py
 │   ├── automotive_analysis_complete.py
 │   ├── run_complete_analysis.py
 │   ├── run_analysis.py
 │   └── requirements.txt
 │
-├── dashboards/                          # 16 dashboards HTML
+├── dashboards/                          # 16 HTML dashboards
 │   ├── dashboard_navigation.html
 │   ├── dashboard_accueil.html
 │   ├── dashboard_executif_direction.html
@@ -144,11 +144,11 @@ PROJET_AUTOMOBILE_FINAL/
 │   ├── dashboard_prospective_2030.html
 │   └── dashboard_principal_automobile.html
 │
-├── data/                                # Données et résultats
+├── data/                                # Data and results
 │   ├── comprehensive_automotive_data.csv
 │   └── automotive_analysis_results_clean.json
 │
-├── models/                              # Modèles ML sauvegardés
+├── models/                              # Saved ML models
 │   ├── xgboost_production_clean.pkl
 │   ├── xgboost_price_clean.pkl
 │   ├── linear_regression_production_clean.pkl
@@ -156,89 +156,87 @@ PROJET_AUTOMOBILE_FINAL/
 │   ├── prophet_production_clean.pkl
 │   └── arima_production_clean.pkl
 │
-├── reports/                             # Rapports
+├── reports/                             # Reports
 │   ├── RAPPORT_COMPLET_ENCADREUR_*.pdf
 │   └── automotive_analysis_report_clean.xlsx
 │
-├── README.md
-└── README_COMPLET.md
+└── README.md
 ```
 
 ---
 
-## Fonctionnalités
+## Features
 
-### Analyses spécialisées
-- Analyse post-COVID: impact de la pandémie et stratégies de reprise
-- Transition électrique avancée: technologies, infrastructure, scénarios
-- Recommandations stratégiques: plan d'action priorisé
-- Analyse sectorielle: segmentation par segments de marché
-- Prospective 2030: vision à long terme avec scénarios multiples
+### Specialized analyses
+- Post-COVID analysis: pandemic impact and recovery strategies
+- Advanced electric transition: technologies, infrastructure, scenarios
+- Strategic recommendations: prioritized action plan
+- Sector analysis: market segmentation
+- 2030 outlook: long-term vision with multiple scenarios
 
-### Modélisation
-- Six modèles de machine learning entraînés et validés
-- Prévisions jusqu'en 2030
-- Analyse de scénarios multiples
+### Modeling
+- Six machine learning models trained and validated
+- Forecasts through 2030
+- Multiple scenario analysis
 
-### Visualisations
-- 16 dashboards HTML interactifs
-- Graphiques dynamiques développés avec Plotly
-- Navigation entre les pages
-- Interface adaptée à différents formats d'écran
+### Visualizations
+- 16 interactive HTML dashboards
+- Dynamic charts built with Plotly
+- Cross-page navigation
+- Interface adapted to different screen sizes
 
 ---
 
-## Principaux résultats
+## Key Results
 
-- **Meilleur scénario**: transition vers les véhicules électriques accélérée (+10,4 %)
-- **Facteur le plus déterminant**: prix des matières premières (28 % d'importance)
-- **Approche recommandée**: transition progressive plutôt que brutale
-- **Impact de la COVID-19**: reprise en V observée en 2021-2022
-- **Opportunité liée aux véhicules électriques**: croissance estimée à 300 % d'ici 2030
+- **Best-case scenario**: accelerated electric vehicle transition (+10.4%)
+- **Most influential factor**: raw material prices (28% importance)
+- **Recommended approach**: gradual rather than abrupt transition
+- **COVID-19 impact**: V-shaped recovery observed in 2021-2022
+- **Electric vehicle opportunity**: estimated growth of 300% by 2030
 
-### Recommandations stratégiques
-1. Accélérer la transition électrique de manière progressive
-2. Diversifier géographiquement les chaînes d'approvisionnement
-3. Développer des partenariats technologiques
-4. Optimiser les coûts de production
-5. Améliorer l'efficacité opérationnelle
+### Strategic recommendations
+1. Accelerate the electric transition gradually
+2. Geographically diversify supply chains
+3. Develop technology partnerships
+4. Optimize production costs
+5. Improve operational efficiency
 
 ---
 
 ## Documentation
 
-- `README_COMPLET.md`: guide complet du projet
-- `README.md`: documentation d'origine
-- `RAPPORT_COMPLET_ENCADREUR_*.pdf`: rapport destiné à l'évaluation académique
-- Code source commenté et documenté
+- `README.md`: project guide
+- `RAPPORT_COMPLET_ENCADREUR_*.pdf`: report for academic evaluation
+- Commented and documented source code
 
 ---
 
-## Informations sur le projet
+## Project Information
 
-| Élément | Détail |
+| Item | Detail |
 |---|---|
-| Période d'analyse | 2010-2023 (14 ans) |
-| Horizon de prévision | 2024-2030 (7 ans) |
-| Volume de données | 12 096 observations |
-| Fabricants couverts | Toyota, Volkswagen, Ford, Hyundai-Kia, Stellantis, GM |
-| Régions couvertes | Amérique du Nord, Europe, Asie-Pacifique, Chine |
-| Pages d'analyses | 16 dashboards |
-| Modèles de machine learning | 6 modèles |
+| Analysis period | 2010-2023 (14 years) |
+| Forecast horizon | 2024-2030 (7 years) |
+| Data volume | 12,096 observations |
+| Manufacturers covered | Toyota, Volkswagen, Ford, Hyundai-Kia, Stellantis, GM |
+| Regions covered | North America, Europe, Asia-Pacific, China |
+| Analysis pages | 16 dashboards |
+| Machine learning models | 6 models |
 
 ---
 
-## Lancement rapide
+## Quick Start
 
 ```bash
-# 1. Se placer dans le dossier du projet
+# 1. Navigate to the project folder
 cd PROJET_AUTOMOBILE_FINAL/code/
 
-# 2. Installer les dépendances
+# 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Lancer l'analyse complète
+# 3. Run the full analysis
 python run_complete_analysis.py
 
-# 4. La navigation s'ouvre automatiquement sur dashboard_navigation.html
+# 4. Navigation opens automatically at dashboard_navigation.html
 ```
