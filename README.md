@@ -1,5 +1,8 @@
 # Automotive Industry Strategic Analysis - 2030 Forecasts
 
+## 🚀 Demo
+👉 **[View Demo →](https://github.com/KaouechMaram/Automotive-Industry-Forecasting/releases/tag/v1.0.0)**
+
 ## Project Overview
 
 This project presents a comprehensive analysis of the global automotive industry, structured into 16 specialized analysis pages, with forecasts through 2030 and strategic recommendations based on machine learning models.
@@ -240,3 +243,13 @@ python run_complete_analysis.py
 
 # 4. Navigation opens automatically at dashboard_navigation.html
 ```
+## 🚀 Demo
+
+👉 **[View Demo →](https://github.com/KaouechMaram/Automotive-Industry-Forecasting/releases/tag/v1.0.0)**
+
+Explore the 16 interactive dashboards covering:
+- 📊 Executive & strategic analysis
+- 🤖 Machine learning models and forecasts
+- 🌍 Geographic and market analysis
+- ⚡ Electric vehicle transition
+- 🔮 2030 scenarios and strategic recommendations
