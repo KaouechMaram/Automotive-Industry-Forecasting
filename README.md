@@ -1,7 +1,7 @@
 # Automotive Industry Strategic Analysis - 2030 Forecasts
 
-## 🚀 Demo
-👉 **[View Demo →](https://github.com/KaouechMaram/Automotive-Industry-Forecasting/releases/tag/v1.0.0)**
+## Demo
+**[View Demo →](lien)**
 
 ## Project Overview
 
